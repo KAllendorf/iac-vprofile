@@ -27,7 +27,7 @@ jobs:
       runs-on: ubuntu-latest
       permissions:
         contents: write
-        pull_requests: write
+        pull-requests: write
       defaults:
         run:
           shell: bash
